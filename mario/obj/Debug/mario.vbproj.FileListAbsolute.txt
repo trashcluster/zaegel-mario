@@ -1,0 +1,13 @@
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.vbprojAssemblyReference.cache
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.Form1.resources
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.Resources.resources
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.vbproj.GenerateResource.cache
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.vbproj.CoreCompileInputs.cache
+C:\Users\axels\Documents\GitHub\mario\mario\bin\Debug\mario.exe.config
+C:\Users\axels\Documents\GitHub\mario\mario\bin\Debug\mario.exe
+C:\Users\axels\Documents\GitHub\mario\mario\bin\Debug\mario.pdb
+C:\Users\axels\Documents\GitHub\mario\mario\bin\Debug\mario.xml
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.exe
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.xml
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.pdb
+C:\Users\axels\Documents\GitHub\mario\mario\obj\Debug\mario.PlateauDeJeu.resources
